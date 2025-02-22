@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_map/flutter_map.dart';
 import 'package:get/get.dart';
-import 'package:in_drive_clone/features/presentation/controller/map_page_controller.dart';
-import 'package:in_drive_clone/features/presentation/widget/search_result_widget.dart';
-import 'package:in_drive_clone/features/presentation/widget/search_widget.dart';
+import 'package:in_drive_clone/features/location_feature/presentation/controller/map_page_controller.dart';
+import 'package:in_drive_clone/features/location_feature/presentation/widget/search_result_widget.dart';
+import 'package:in_drive_clone/features/location_feature/presentation/widget/search_widget.dart';
 import 'package:latlong2/latlong.dart';
 
 class HomePage extends GetView<MapPageController> {

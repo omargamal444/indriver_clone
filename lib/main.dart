@@ -2,9 +2,8 @@ import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:in_drive_clone/core/main_binding.dart';
-import 'package:in_drive_clone/features/presentation/controller/location_binding.dart';
-
-import 'features/presentation/page/map_page.dart';
+import 'package:in_drive_clone/features/location_feature/presentation/controller/location_binding.dart';
+import 'package:in_drive_clone/features/location_feature/presentation/page/map_page.dart';
 import 'firebase_options.dart';
 
 void main() async {

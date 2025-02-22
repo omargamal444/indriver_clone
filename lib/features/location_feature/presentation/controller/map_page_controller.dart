@@ -3,10 +3,10 @@ import 'package:flutter_map/flutter_map.dart';
 import 'package:get/get.dart';
 import 'package:in_drive_clone/config/error/failure.dart';
 import 'package:in_drive_clone/core/permission_handler.dart';
-import 'package:in_drive_clone/features/domain/entity/route_entity.dart';
-import 'package:in_drive_clone/features/domain/location_usecase/get_current_location_usecase.dart';
-import 'package:in_drive_clone/features/domain/location_usecase/get_route_usecase.dart';
-import 'package:in_drive_clone/features/domain/location_usecase/search_location_usecase.dart';
+import 'package:in_drive_clone/features/location_feature/domain/entity/route_entity.dart';
+import 'package:in_drive_clone/features/location_feature/domain/location_usecase/get_current_location_usecase.dart';
+import 'package:in_drive_clone/features/location_feature/domain/location_usecase/get_route_usecase.dart';
+import 'package:in_drive_clone/features/location_feature/domain/location_usecase/search_location_usecase.dart';
 import 'package:latlong2/latlong.dart';
 
 import '../../domain/entity/location_entity.dart';

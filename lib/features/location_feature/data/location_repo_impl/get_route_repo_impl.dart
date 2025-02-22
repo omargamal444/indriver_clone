@@ -1,9 +1,8 @@
 import 'package:in_drive_clone/config/error/failure.dart';
-import 'package:in_drive_clone/features/domain/entity/route_entity.dart';
-import 'package:in_drive_clone/features/domain/location_repo/route_repo.dart';
+import 'package:in_drive_clone/core/internet_connection.dart';
+import 'package:in_drive_clone/features/location_feature/domain/entity/route_entity.dart';
+import 'package:in_drive_clone/features/location_feature/domain/location_repo/route_repo.dart';
 import 'package:latlong2/latlong.dart';
-
-import '../../../core/internet_connection.dart';
 import '../data_source/remote_data_source_impl/location_remote_data_source_impl.dart';
 
 class GetRouteRepoImpl implements RouteRepository {

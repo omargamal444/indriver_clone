@@ -1,6 +1,5 @@
-import 'package:in_drive_clone/features/domain/entity/location_entity.dart';
-import 'package:in_drive_clone/features/domain/location_repo/location_repo.dart';
-
+import 'package:in_drive_clone/features/location_feature/domain/entity/location_entity.dart';
+import 'package:in_drive_clone/features/location_feature/domain/location_repo/location_repo.dart';
 class SearchLocationUseCase{
   LocationRepo? locationRepo;
 

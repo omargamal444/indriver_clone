@@ -2,11 +2,11 @@ import 'package:dio/dio.dart';
 import 'package:geolocator/geolocator.dart';
 import 'package:in_drive_clone/config/api/api_consumer.dart';
 import 'package:in_drive_clone/config/api/api_key.dart';
-import 'package:in_drive_clone/features/data/data_source/remote_data_source_impl/location_remote_data_source.dart';
-import 'package:in_drive_clone/features/data/model/location_model.dart';
-import 'package:in_drive_clone/features/data/model/route_model.dart';
-import 'package:in_drive_clone/features/domain/entity/location_entity.dart';
-import 'package:in_drive_clone/features/domain/entity/route_entity.dart';
+import 'package:in_drive_clone/features/location_feature/data/data_source/remote_data_source_impl/location_remote_data_source.dart';
+import 'package:in_drive_clone/features/location_feature/data/model/location_model.dart';
+import 'package:in_drive_clone/features/location_feature/data/model/route_model.dart';
+import 'package:in_drive_clone/features/location_feature/domain/entity/location_entity.dart';
+import 'package:in_drive_clone/features/location_feature/domain/entity/route_entity.dart';
 import 'package:latlong2/latlong.dart';
 
 class LocationRemoteDataSourceImpl implements RemoteDataSource {
