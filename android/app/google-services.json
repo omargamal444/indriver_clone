@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "359425010864",
+    "project_id": "learn-38ec4",
+    "storage_bucket": "learn-38ec4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359425010864:android:4dda2061f7d201a3979f75",
+        "android_client_info": {
+          "package_name": "com.example.in_drive_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359425010864-pvotvf67a6vfqc06tbv16n3b7uvmnh4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRlkn96JP9vbECLa8bqtjYyq32IK0cddA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359425010864-pvotvf67a6vfqc06tbv16n3b7uvmnh4e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "359425010864-954sgd3bbrsjrbk5g2ijl89og7ovsb8g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.instgramclone"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359425010864:android:f9526986574b1d28979f75",
+        "android_client_info": {
+          "package_name": "com.example.instgramclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359425010864-pvotvf67a6vfqc06tbv16n3b7uvmnh4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRlkn96JP9vbECLa8bqtjYyq32IK0cddA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359425010864-pvotvf67a6vfqc06tbv16n3b7uvmnh4e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "359425010864-954sgd3bbrsjrbk5g2ijl89og7ovsb8g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.instgramclone"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359425010864:android:eefa23e10870a04d979f75",
+        "android_client_info": {
+          "package_name": "com.example.nutrition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359425010864-4816nq6ridredh3fr9907b976q75idjj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nutrition",
+            "certificate_hash": "2b6586fdd296db15f978d5eedcdcafe8ac740c69"
+          }
+        },
+        {
+          "client_id": "359425010864-pvotvf67a6vfqc06tbv16n3b7uvmnh4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRlkn96JP9vbECLa8bqtjYyq32IK0cddA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359425010864-pvotvf67a6vfqc06tbv16n3b7uvmnh4e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "359425010864-954sgd3bbrsjrbk5g2ijl89og7ovsb8g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.instgramclone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
